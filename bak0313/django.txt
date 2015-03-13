@@ -1,0 +1,15 @@
+django-debug-toolbar 
+为django站点增加调试功能，支持查看django生成的sql语句，及sql的执行时间等，功能强大。
+不过由于该组件使用了jquery，似乎会使用部分使用了jquery的站点无法正常工作。
+
+django-db-log 
+将django的异常保存到数据库。
+
+django-logging 
+增加sql日志。
+直接在站点的网页上查看当前页面所使用sql语句以及执行时间。
+功能比django-debug-toolbar要弱不少，不过要是django-debug-toolbar把你的页面毁了，那就试试这个吧。
+
+
+
+django-bookmarks 书签管理组件

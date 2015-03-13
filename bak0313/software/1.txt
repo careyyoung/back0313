@@ -1,0 +1,14 @@
+1. get python: http://www.python.org/ftp/python/2.7.6/python-2.7.6.amd64.msi
+2.简明Python 教程: http://sebug.net/paper/python/
+
+selenium: http://blog.163.com/lgh_2002/blog/static/44017526201259113351146/
+
+基础能力：
+1.软件测试的理论和方法
+2.业务能力
+进阶要求：
+3.it基础架构知识：操作系统、网络、硬件
+4.数据库：数据库管理、sql、数据库设计
+高级能力：
+5.开发知识：测试脚本、编程语言、软件开发
+6.软件设计知识
